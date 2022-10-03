@@ -1,8 +1,6 @@
-<div align="center">
-✨  Hello! I'm Giovana  ✨
-
+## ✨  Hello! I'm Giovana  ✨
 she/her ~ ela/dela
-</div>
+
 
 	
 ### Currently learning
