@@ -1,9 +1,9 @@
-## ✨  Hello! I'm Giovana  ✨
+# ✨  Hello! I'm Giovana  ✨
 she/her ~ ela/dela
 
 
 	
-### Currently learning
+## Currently learning
 ![Java](https://img.shields.io/badge/Java-ED800?style=for-the-badge&logo=java&logoColhor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -13,19 +13,19 @@ she/her ~ ela/dela
 
 
 
-### My projects
+## My projects
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=giovana-ds&repo=devweekebac.github.io&&theme=dark)
 
 
 
-### Just some statistics
+## Just some statistics
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giovana-ds&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giovana-ds&layout=compact&theme=dark)
 
 
 
-### Contact me
+## Contact me
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt= 'Linkedin' height='30'>](www.linkedin.com/in/giovana-da-silveira-s-i)
 
 <!--
