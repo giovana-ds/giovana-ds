@@ -13,5 +13,5 @@ she/her ~ ela/dela
 ### My projects
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=giovana-ds&repo=devweekebac.github.io&&theme=radical)
 
-## Contact me
+## ✨ Contact me
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt= 'Linkedin' height='30'>](www.linkedin.com/in/giovana-da-silveira-s-i)
