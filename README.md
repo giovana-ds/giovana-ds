@@ -1,9 +1,9 @@
 # ✨  Hello! I'm Giovana  ✨
 *she/her ~ ela/dela*
 
-<p align="center">    
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/102772845/193729979-466ad0f3-dd67-4af3-ac75-bb72bc84a829.png" height=200px/>
   <img src="https://github-readme-stats.vercel.app/api?username=giovana-ds&show_icons=true&theme=radical">
-  <img src="https://user-images.githubusercontent.com/102772845/193723257-aa6adfc5-5dc7-4836-b354-6f2f6f6ec593.png" height=200px/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovana-ds&layout=compact&theme=radical">
 </p>
 
