@@ -1,5 +1,5 @@
 # ✨  Hello! I'm Giovana  ✨
-she/her ~ ela/dela
+*she/her ~ ela/dela*
 
 <p align="center">
     
@@ -18,4 +18,7 @@ she/her ~ ela/dela
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=giovana-ds&repo=devweekebac.github.io&&theme=radical)
 
 ## ✨ Contact me
+
+[My Linkedin](www.linkedin.com/in/giovana-da-silveira-s-i)
+
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt= 'Linkedin' height='30'>](www.linkedin.com/in/giovana-da-silveira-s-i)
