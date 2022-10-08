@@ -12,7 +12,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="50" height="50"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50" height="50"/>         
 
 ### Projects
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=giovana-ds&repo=devweekebac.github.io&&theme=tokyonight)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=giovana-ds&repo=devweekebac.github.io&theme=tokyonight)
 
 ## ✨ Contact me
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt= 'Linkedin' height='30'>](https://linkedin.com/in/giovana-da-silveira-s-i)
