@@ -11,8 +11,5 @@
 ### Currently learning
 ![My Skills](https://skills.thijs.gg/icons?i=py,js&theme=dark)      
 
-### Projects
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=giovana-ds&repo=devweekebac.github.io&theme=tokyonight)
-
 ## ✨ Contact me
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt= 'Linkedin' height='30'>](https://linkedin.com/in/giovana-da-silveira-s-i)
