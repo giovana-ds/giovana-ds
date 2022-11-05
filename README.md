@@ -11,3 +11,5 @@
 
 ## ✨ Contact me
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt= 'Linkedin' height='30'>](https://linkedin.com/in/giovana-da-silveira-s-i)
+
+![Snake animation](https://github.com/giovana-ds/giovana-ds/blob/output/github-contribution-grid-snake.svg)
