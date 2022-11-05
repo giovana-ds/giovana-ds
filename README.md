@@ -1,9 +1,7 @@
 # ✨  Hello! I'm Giovana  ✨
 *she/her ~ ela/dela ~ 21y*
 
-<img src="https://github-readme-stats.vercel.app/api?username=giovana-ds&show_icons=true&theme=tokyonight" width="450"/>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giovana-ds&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=giovana-ds&show_icons=true&theme=tokyonight" width="450"/> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giovana-ds&layout=compact&theme=tokyonight)
 
 ### Languages and technologies
 ![My Skills](https://skills.thijs.gg/icons?i=java,html,css,git,mysql&theme=dark)
