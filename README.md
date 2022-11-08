@@ -1,5 +1,5 @@
 # ✨  Hello! I'm Giovana  ✨
-*she/her ~ ela/dela ~ 21y*
+*she/her ~ 21y*
 
 <img src="https://github-readme-stats.vercel.app/api?username=giovana-ds&show_icons=true&theme=tokyonight" width="420"/> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giovana-ds&layout=compact&theme=tokyonight)
 
